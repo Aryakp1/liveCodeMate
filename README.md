@@ -18,4 +18,4 @@ A live code editor.
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Aryakp1/liveCodeMate.git
