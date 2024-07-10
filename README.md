@@ -1,6 +1,6 @@
 # Code Mate
-live demo of my project : https://aryakp1.github.io/liveCodeMate/
-A live code editor.
+You can view my project live [here](https://aryakp1.github.io/liveCodeMate/)
+-A live code editor.
 
 ## Features
 
